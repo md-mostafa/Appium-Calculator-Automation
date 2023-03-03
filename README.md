@@ -64,6 +64,8 @@ allure serve allure-results
 ---
 
 ### Generated Reports
+![image](https://user-images.githubusercontent.com/41513761/222792607-0bdc6526-a797-483c-99fd-4b33d9a269d5.png)
+
 
 #### Automation Video
 
