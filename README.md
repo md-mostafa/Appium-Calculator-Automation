@@ -71,7 +71,7 @@ allure serve allure-results
 
 
 
-#### Automation Video
+#### Video Demonstration
 
 https://user-images.githubusercontent.com/41513761/222793309-11975fea-920e-4259-8016-fd02aabcf5ea.mp4
 
