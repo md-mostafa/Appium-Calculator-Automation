@@ -26,7 +26,7 @@ public class Setup {
         caps.setCapability("app", System.getProperty("user.dir") + "/src/test/resources/calculator.apk");
 
 
-        URL url = new URL("http://127.0.0.1:4723/wd/hub");
+        URL url = new URL("http://0.0.0.0:4723/wd/hub");
         driver = new AndroidDriver(url, caps);
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
