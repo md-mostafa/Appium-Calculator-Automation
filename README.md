@@ -37,6 +37,19 @@ This is a basic calculator app automation testing using Appium on an emulator de
   * ALLURE_HOME
 ```
 #### How to run the project
+* Clone the repo
+* Open terminal. Start the appium server using below command.
+```
+appium -p 4723
+```
+* Open android studio
+* Create a new virtual device.
+* Start the emulator
+* In the root folder give the following command in terminal.
+```
+gradle clean test
+```
+
 
 #### How to generate allure report
 1. Open cmd in the root folder
