@@ -65,9 +65,16 @@ allure serve allure-results
 
 ### Generated Reports
 ![image](https://user-images.githubusercontent.com/41513761/222792607-0bdc6526-a797-483c-99fd-4b33d9a269d5.png)
+![image](https://user-images.githubusercontent.com/41513761/222793052-ddafad59-bd3e-4f0e-97f1-26176fbb87c7.png)
+![image](https://user-images.githubusercontent.com/41513761/222793156-803e2e01-717a-4528-b8b5-d3b63edb8c25.png)
+
 
 
 #### Automation Video
+
+https://user-images.githubusercontent.com/41513761/222793309-11975fea-920e-4259-8016-fd02aabcf5ea.mp4
+
+
 
 #### Feedback
 If you have any feedback, please reach out to me at md.mostafa.akash@gmail.com
