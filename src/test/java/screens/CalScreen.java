@@ -84,4 +84,33 @@ public class CalScreen {
         btnEql.click();
         return resultFinal.getText();
     }
+
+    public String solveSeries(){
+        btn1.click();
+        btn0.click();
+        btn0.click();
+
+        btnPlus.click();
+
+        btn2.click();
+        btn0.click();
+        btn0.click();
+
+        btnMinus.click();
+
+        btn1.click();
+        btn0.click();
+        btn0.click();
+
+        btnMul.click();
+
+        btn2.click();
+
+        btnDiv.click();
+
+        btn5.click();
+
+        btnEql.click();
+        return resultFinal.getText();
+    }
 }

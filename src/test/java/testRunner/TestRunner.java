@@ -40,6 +40,14 @@ public class TestRunner extends Setup {
         Assert.assertEquals(result,"7", "Division calculation mismatched");
     }
 
+    @Test(priority = 5, description = "Solving a series")
+    public void solveSeries(){
+        CalScreen calSreen = new CalScreen(driver);
+        String result = calSreen.solveSeries();
+        System.out.println("Result = "+result);
+        Assert.assertEquals(result, "260", "Ans didnt match");
+    }
+
     @AfterMethod
     public void clearScreen(){
         CalScreen calScreen = new CalScreen(driver);
