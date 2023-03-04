@@ -64,9 +64,9 @@ allure serve allure-results
 ---
 
 ### Generated Reports
-![image](https://user-images.githubusercontent.com/41513761/222792607-0bdc6526-a797-483c-99fd-4b33d9a269d5.png)
-![image](https://user-images.githubusercontent.com/41513761/222793052-ddafad59-bd3e-4f0e-97f1-26176fbb87c7.png)
-![image](https://user-images.githubusercontent.com/41513761/222793156-803e2e01-717a-4528-b8b5-d3b63edb8c25.png)
+![image](https://user-images.githubusercontent.com/41513761/222880768-dd6b9789-7c5c-4218-8c58-008a1f9f6c79.png)
+![image](https://user-images.githubusercontent.com/41513761/222880797-2ce60a5a-1acf-4ea8-8a61-9cf424964190.png)
+![image](https://user-images.githubusercontent.com/41513761/222880811-920b9297-73a9-45dc-b435-e66afc62a4a2.png)
 
 
 
