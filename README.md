@@ -72,7 +72,9 @@ allure serve allure-results
 
 
 #### Video Demonstration
-https://user-images.githubusercontent.com/41513761/222881188-0eaa824a-5a58-4e15-9ef1-d1c812eb8bf5.mp4
+
+https://user-images.githubusercontent.com/41513761/222881228-594b6a22-85fb-4b27-acec-e935c6de10ae.mp4
+
 
 
 
